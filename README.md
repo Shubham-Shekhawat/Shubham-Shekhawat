@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...shubhamshekhawat080@gmail.com
+- 📫 How to reach me shubhamshekhawat080@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
